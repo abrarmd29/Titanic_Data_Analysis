@@ -1,4 +1,3 @@
-# Titanic_Data_Analysis
 # Titanic Data Analysis Project
 
 This project is an analysis of the Titanic dataset using Python. The dataset contains information about passengers on the Titanic, including their demographics, ticket information, cabin locations, and survival status. The analysis is performed in a Jupyter notebook and includes a summary of the findings and bar graphs to visualize the data.
